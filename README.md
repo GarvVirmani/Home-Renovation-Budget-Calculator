@@ -1,6 +1,6 @@
-# 🏠 Home Renovation Budget Optimizer
+# 🏠 Home Renovation Budget Calculator
 
-Welcome to the Home Renovation Budget Optimizer! This tool helps you plan and optimize your home renovation budget with ease.
+Welcome to the Home Renovation Budget Calculator! This tool helps you plan and calculate your home renovation budget with ease.
 
 ## 🚀 Getting Started
 
